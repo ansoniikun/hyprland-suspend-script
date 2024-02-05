@@ -8,11 +8,13 @@ This is an automatic suspend script for hyprland using swayidle
 3. nano/neovim/gedit
 
 ### Installation
-Paste the following commands into your terminal:
-1. `$ git clone https://github.com/ansoniikun/hyprland-suspend-script.git`
-2. `$ cd hyprland-suspend-script`
-3. `$ chmod +x suspend.sh`
-4. `$ mv suspend.sh ~/.config/hypr/scripts/`
+Paste the following commands into your terminal:  
+```
+$ git clone https://github.com/ansoniikun/hyprland-suspend-script.git \
+$ cd hyprland-suspend-script \
+$ chmod +x suspend.sh \
+$ mv suspend.sh ~/.config/hypr/scripts/
+```
 
 
 ### Usage
